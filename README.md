@@ -57,7 +57,6 @@ Below are some examples of data visualizations and results generated during the 
 
 ## 🔭 Future Work
 
-- Mobile app development for real-time alerts and feedback
 - Integration with wearable IoT health sensors
 - Expanded dataset including geographical and socio-economic factors
 
